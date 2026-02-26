@@ -1,0 +1,61 @@
+fecha,vendedor,region,producto,categoria,unidades,precio_unitario,ventas_total,costo_total,meta_mensual,cliente,canal
+2024-01-05,Carlos Mendoza,Norte,Laptop Pro X,Tecnología,3,1200,3600,2160,50000,TechCorp SA,Online
+2024-01-07,Ana Torres,Sur,Mouse Inalámbrico,Accesorios,15,45,675,337.5,30000,Distribuidora Lima,Tienda
+2024-01-10,Luis García,Centro,Monitor 4K,Tecnología,2,850,1700,1020,50000,StartupHub,Online
+2024-01-12,María Pérez,Este,Teclado Mecánico,Accesorios,8,120,960,480,30000,GameZone,Tienda
+2024-01-15,Carlos Mendoza,Norte,Auriculares BT,Accesorios,10,200,2000,1000,50000,MusicStore,Online
+2024-01-18,Ana Torres,Sur,Laptop Pro X,Tecnología,2,1200,2400,1440,30000,EduTech,Tienda
+2024-01-20,Pedro Ruiz,Oeste,Tablet Ultra,Tecnología,5,650,3250,1950,40000,RetailMax,Online
+2024-01-22,Luis García,Centro,Webcam HD,Accesorios,12,90,1080,540,50000,RemoteWork SA,Online
+2024-01-25,María Pérez,Este,SSD 1TB,Almacenamiento,7,180,1260,756,30000,DataCenter,Tienda
+2024-01-28,Pedro Ruiz,Oeste,Router WiFi 6,Redes,4,300,1200,600,40000,NetPro,Online
+2024-02-03,Carlos Mendoza,Norte,Monitor 4K,Tecnología,3,850,2550,1530,50000,TechCorp SA,Online
+2024-02-06,Ana Torres,Sur,Laptop Pro X,Tecnología,4,1200,4800,2880,30000,Distribuidora Lima,Online
+2024-02-08,Luis García,Centro,Mouse Inalámbrico,Accesorios,20,45,900,450,50000,OfficeMax,Tienda
+2024-02-11,María Pérez,Este,Auriculares BT,Accesorios,6,200,1200,600,30000,MusicStore,Online
+2024-02-14,Pedro Ruiz,Oeste,Tablet Ultra,Tecnología,3,650,1950,1170,40000,EduCenter,Tienda
+2024-02-17,Carlos Mendoza,Norte,Teclado Mecánico,Accesorios,14,120,1680,840,50000,GameZone,Online
+2024-02-20,Ana Torres,Sur,SSD 1TB,Almacenamiento,9,180,1620,972,30000,DataCenter,Tienda
+2024-02-22,Luis García,Centro,Webcam HD,Accesorios,18,90,1620,810,50000,RemoteWork SA,Online
+2024-02-25,María Pérez,Este,Router WiFi 6,Redes,5,300,1500,750,30000,NetPro,Online
+2024-02-27,Pedro Ruiz,Oeste,Laptop Pro X,Tecnología,2,1200,2400,1440,40000,StartupHub,Online
+2024-03-04,Carlos Mendoza,Norte,Tablet Ultra,Tecnología,6,650,3900,2340,50000,RetailMax,Tienda
+2024-03-07,Ana Torres,Sur,Monitor 4K,Tecnología,4,850,3400,2040,30000,TechCorp SA,Online
+2024-03-10,Luis García,Centro,Auriculares BT,Accesorios,11,200,2200,1100,50000,MusicStore,Online
+2024-03-13,María Pérez,Este,Laptop Pro X,Tecnología,3,1200,3600,2160,30000,EduTech,Tienda
+2024-03-16,Pedro Ruiz,Oeste,Mouse Inalámbrico,Accesorios,25,45,1125,562.5,40000,OfficeMax,Online
+2024-03-19,Carlos Mendoza,Norte,SSD 1TB,Almacenamiento,10,180,1800,1080,50000,DataCenter,Online
+2024-03-22,Ana Torres,Sur,Teclado Mecánico,Accesorios,7,120,840,420,30000,GameZone,Tienda
+2024-03-25,Luis García,Centro,Router WiFi 6,Redes,6,300,1800,900,50000,NetPro,Online
+2024-03-27,María Pérez,Este,Webcam HD,Accesorios,15,90,1350,675,30000,RemoteWork SA,Online
+2024-03-30,Pedro Ruiz,Oeste,Monitor 4K,Tecnología,2,850,1700,1020,40000,StartupHub,Online
+2024-04-02,Carlos Mendoza,Norte,Laptop Pro X,Tecnología,5,1200,6000,3600,50000,TechCorp SA,Online
+2024-04-05,Ana Torres,Sur,Tablet Ultra,Tecnología,4,650,2600,1560,30000,RetailMax,Tienda
+2024-04-08,Luis García,Centro,Mouse Inalámbrico,Accesorios,22,45,990,495,50000,OfficeMax,Online
+2024-04-11,María Pérez,Este,Auriculares BT,Accesorios,9,200,1800,900,30000,MusicStore,Tienda
+2024-04-14,Pedro Ruiz,Oeste,SSD 1TB,Almacenamiento,8,180,1440,864,40000,DataCenter,Online
+2024-04-17,Carlos Mendoza,Norte,Webcam HD,Accesorios,20,90,1800,900,50000,RemoteWork SA,Online
+2024-04-20,Ana Torres,Sur,Router WiFi 6,Redes,3,300,900,450,30000,NetPro,Online
+2024-04-23,Luis García,Centro,Monitor 4K,Tecnología,5,850,4250,2550,50000,TechCorp SA,Tienda
+2024-04-26,María Pérez,Este,Teclado Mecánico,Accesorios,12,120,1440,720,30000,GameZone,Online
+2024-04-29,Pedro Ruiz,Oeste,Laptop Pro X,Tecnología,3,1200,3600,2160,40000,EduTech,Online
+2024-05-02,Carlos Mendoza,Norte,Monitor 4K,Tecnología,4,850,3400,2040,50000,StartupHub,Online
+2024-05-05,Ana Torres,Sur,Mouse Inalámbrico,Accesorios,18,45,810,405,30000,OfficeMax,Tienda
+2024-05-08,Luis García,Centro,Tablet Ultra,Tecnología,7,650,4550,2730,50000,RetailMax,Online
+2024-05-11,María Pérez,Este,SSD 1TB,Almacenamiento,11,180,1980,1188,30000,DataCenter,Tienda
+2024-05-14,Pedro Ruiz,Oeste,Auriculares BT,Accesorios,8,200,1600,800,40000,MusicStore,Online
+2024-05-17,Carlos Mendoza,Norte,Teclado Mecánico,Accesorios,16,120,1920,960,50000,GameZone,Online
+2024-05-20,Ana Torres,Sur,Laptop Pro X,Tecnología,3,1200,3600,2160,30000,EduTech,Online
+2024-05-23,Luis García,Centro,Webcam HD,Accesorios,14,90,1260,630,50000,RemoteWork SA,Tienda
+2024-05-26,María Pérez,Este,Router WiFi 6,Redes,7,300,2100,1050,30000,NetPro,Online
+2024-05-29,Pedro Ruiz,Oeste,Monitor 4K,Tecnología,3,850,2550,1530,40000,TechCorp SA,Online
+2024-06-02,Carlos Mendoza,Norte,Laptop Pro X,Tecnología,6,1200,7200,4320,50000,TechCorp SA,Online
+2024-06-05,Ana Torres,Sur,Tablet Ultra,Tecnología,5,650,3250,1950,30000,RetailMax,Online
+2024-06-08,Luis García,Centro,Mouse Inalámbrico,Accesorios,28,45,1260,630,50000,OfficeMax,Tienda
+2024-06-11,María Pérez,Este,Auriculares BT,Accesorios,10,200,2000,1000,30000,MusicStore,Online
+2024-06-14,Pedro Ruiz,Oeste,SSD 1TB,Almacenamiento,13,180,2340,1404,40000,DataCenter,Online
+2024-06-17,Carlos Mendoza,Norte,Router WiFi 6,Redes,5,300,1500,750,50000,NetPro,Tienda
+2024-06-20,Ana Torres,Sur,Monitor 4K,Tecnología,3,850,2550,1530,30000,StartupHub,Online
+2024-06-23,Luis García,Centro,Teclado Mecánico,Accesorios,9,120,1080,540,50000,GameZone,Online
+2024-06-26,María Pérez,Este,Webcam HD,Accesorios,17,90,1530,765,30000,RemoteWork SA,Online
+2024-06-29,Pedro Ruiz,Oeste,Laptop Pro X,Tecnología,4,1200,4800,2880,40000,EduTech,Online
