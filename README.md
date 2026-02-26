@@ -201,9 +201,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Creator:** [Your Name]
-**LinkedIn:** [Your LinkedIn Profile]
-**GitHub:** [Your GitHub Profile]
+**Project Creator:** Xangel0s
+**LinkedIn:** https://www.linkedin.com/in/angel-lopez-de-la-cruz-79a7522a8/
+**GitHub:** https://github.com/Xangel0s
 
 ---
 
